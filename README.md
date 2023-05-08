@@ -1,6 +1,6 @@
 # AIPres
 
-I presented an article I found online with the topic of AI in Chemical Synthesis. These are my notes on the article.
+I found an article by Wei Wang, Yingwei Liu, Zheng Wang, Gefei Hao, and  Baoan Song entitled "The way to AI-controlled synthesis: how far do we need to go?". I then presented this article in my AI class as a final project. These are my notes on the article. The associated PowerPoint is attached.
 
 
 My article covered the use of AI in chemical synthesis. Chemical synthesis is the discovery
